@@ -7,6 +7,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Fake World Cup")
+            Text("Soccer")
         }
  
     }
